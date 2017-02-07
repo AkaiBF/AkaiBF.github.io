@@ -22,3 +22,17 @@ a{
     left: 70px;
     position: absolute;
 }
+footer{
+    position: absolute;
+    width: 100%;
+    min-height: 30px;
+    bottom: 0px;
+}
+i{
+    width: 10px;
+    height: 10px;
+}
+.fa-twitter{
+    position: absolute;
+    right: 20px;
+}
