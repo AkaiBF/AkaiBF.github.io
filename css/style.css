@@ -48,3 +48,9 @@ i{
   border-right: 4px solid transparent;
   border-left: 4px solid transparent;
 }
+
+#brain {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
